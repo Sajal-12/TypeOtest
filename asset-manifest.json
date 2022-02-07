@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TypeOtest/static/css/main.073c9b0a.css",
+    "main.js": "/TypeOtest/static/js/main.ef3a38b6.js",
+    "static/js/787.719ec76d.chunk.js": "/TypeOtest/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TypeOtest/index.html",
+    "main.073c9b0a.css.map": "/TypeOtest/static/css/main.073c9b0a.css.map",
+    "main.ef3a38b6.js.map": "/TypeOtest/static/js/main.ef3a38b6.js.map",
+    "787.719ec76d.chunk.js.map": "/TypeOtest/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ef3a38b6.js"
+  ]
+}
